@@ -74,6 +74,3 @@ The rank commands assume every member holds the base rank role.
 The slash-first design: the bot's commands are slash commands.
 
 ![Role panel](11-role-panel.png)
-
-### 12. Developer Portal: Public Bot off, privacy policy linked
-![Portal settings](12-portal-settings.png)
